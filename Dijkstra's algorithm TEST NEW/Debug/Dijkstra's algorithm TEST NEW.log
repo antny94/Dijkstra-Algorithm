@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Antny\source\repos\Dijkstra's algorithm TEST NEW\Dijkstra's algorithm TEST NEW\Source.cpp(24,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Antny\source\repos\Dijkstra's algorithm TEST NEW\Dijkstra's algorithm TEST NEW\Source.cpp(55,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Antny\source\repos\Dijkstra's algorithm TEST NEW\Dijkstra's algorithm TEST NEW\Source.cpp(76,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Dijkstra's algorithm TEST NEW.vcxproj -> C:\Users\Antny\source\repos\Dijkstra's algorithm TEST NEW\Debug\Dijkstra's algorithm TEST NEW.exe
